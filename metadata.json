@@ -1,0 +1,6 @@
+{
+  "name": "Ninja School: Shinobi Trials",
+  "description": "Game đi cảnh ninja phong cách đồ họa pixel hoài niệm với các thử thách vượt cạm bẫy, leo tường, phi tiêu và đấu trùm kịch tính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
